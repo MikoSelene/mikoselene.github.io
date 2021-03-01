@@ -3,4 +3,4 @@
 ### sei lá
 teste de git
 
-não **sei** qual __quer__ coisa 
+não **sei** qual _quer_ coisa 
